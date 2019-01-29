@@ -16,7 +16,7 @@
 title: NOMA Abstract Thoughts
 description: >- # this means to ignore newlines until "baseurl:"
   abstract creative code inspired by NOMA's collection "Abstract Thoughts"
-baseurl: "/AbstractThoughts" # the subpath of your site, e.g. /blog
+baseurl: "/abstractCycle" # the subpath of your site, e.g. /blog
 url: "https://isidore-newman-school.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

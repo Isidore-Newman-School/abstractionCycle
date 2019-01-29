@@ -1,3 +1,8 @@
+body {
+  background: black;
+  color:white;
+}
+
 #videoP5 {
   z-index: -100;
 }
