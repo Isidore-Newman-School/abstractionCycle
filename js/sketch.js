@@ -12,7 +12,7 @@ function setup() {
   canvas.parent("canvasDiv");
   nameDiv = select("#nameDiv");
   nameDiv.html(names[numGroup]);
-  setInterval(cycle, 10000);
+  setInterval(cycle, 15000);
 }
 
 function draw() {
